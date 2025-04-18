@@ -40,6 +40,7 @@ const InstructionsButton: React.FC = () => {
                 <li>Si te convenso, responderás la pregunta.</li>
                 <li>Si no te convenso, seré yo quien responda.</li>
               </ol>
+              <p>También puedes responder directamente, juas juas.</p>
             </div>
           </div>
         </div>
