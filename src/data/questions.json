@@ -377,5 +377,109 @@
   {
     "category": "Cultura Pop",
     "question": "Si pudieras tener cualquier gadget de una película o serie, ¿cuál sería?"
+  },
+  {
+    "category": "Música",
+    "question": "¿Cuál es tu opening de anime favorito?"
+  },
+  {
+    "category": "Música",
+    "question": "¿Qué ending de anime te sorprendió por lo bueno que es?"
+  },
+  {
+    "category": "Música",
+    "question": "¿Qué banda o artista japonés descubriste gracias al anime?"
+  },
+  {
+    "category": "Música",
+    "question": "¿Qué soundtrack de anime te parece más emocionante?"
+  },
+  {
+    "category": "Música",
+    "question": "¿Qué opening tararearías sin importar dónde estés?"
+  },
+
+  {
+    "category": "Películas",
+    "question": "¿Cuál es tu película de anime favorita de todos los tiempos?"
+  },
+  {
+    "category": "Películas",
+    "question": "¿Qué película de Studio Ghibli te marcó más?"
+  },
+  {
+    "category": "Películas",
+    "question": "¿Qué película de anime recomiendas siempre?"
+  },
+  {
+    "category": "Películas",
+    "question": "¿Qué director de anime te parece más brillante?"
+  },
+  {
+    "category": "Películas",
+    "question": "¿Qué película de anime te hizo llorar más?"
+  },
+
+  {
+    "category": "Series",
+    "question": "¿Cuál fue el primer anime que viste?"
+  },
+  {
+    "category": "Series",
+    "question": "¿Qué anime te gustaría ver otra vez como si fuera la primera vez?"
+  },
+  {
+    "category": "Series",
+    "question": "¿Qué personaje de anime te parece más icónico?"
+  },
+  {
+    "category": "Series",
+    "question": "¿Qué anime te sorprendió con su historia?"
+  },
+  {
+    "category": "Series",
+    "question": "¿Qué anime recomendarías a alguien que no suele ver anime?"
+  },
+
+  {
+    "category": "Videojuegos",
+    "question": "¿Qué videojuego basado en anime te parece el mejor adaptado?"
+  },
+  {
+    "category": "Videojuegos",
+    "question": "¿Qué juego de anime jugaste más horas sin darte cuenta?"
+  },
+  {
+    "category": "Videojuegos",
+    "question": "¿Qué personaje de anime te gustaría que tuviera su propio videojuego?"
+  },
+  {
+    "category": "Videojuegos",
+    "question": "¿Qué opening de anime te encantaría que apareciera en un juego?"
+  },
+  {
+    "category": "Videojuegos",
+    "question": "¿Qué juego inspirado en anime recomendarías sin dudar?"
+  },
+
+  {
+    "category": "Cultura Pop",
+    "question": "¿Qué tropo del anime te parece más divertido?"
+  },
+  {
+    "category": "Cultura Pop",
+    "question": "¿Qué personaje de anime viste hasta el cansancio en memes?"
+  },
+  {
+    "category": "Cultura Pop",
+    "question": "¿Qué trend de anime te pareció imposible de evitar?"
+  },
+  {
+    "category": "Cultura Pop",
+    "question": "¿Qué escena de anime se volvió icónica para ti?"
+  },
+  {
+    "category": "Cultura Pop",
+    "question": "¿Qué frase de anime recuerdas siempre?"
   }
 ]
