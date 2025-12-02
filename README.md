@@ -46,7 +46,7 @@ Se aconseja revisar _src/data/questions.json_ para conocer y modificar las pregu
 
 1. Reúnete con esa persona especial
 2. Puede comenzar con la pregunta aleatoria o explorar por categorías
-3. Haz clic en una tarjeta para revelar la pregunta
+3. Si escogiste una categoría, haz clic en una tarjeta para revelar la pregunta
 4. Quien lee la pregunta preguntará al otro "¿Por qué quieres saber eso?"
 5. La otra persona deberá justificar por qué quiere conocer la respuesta a esa pregunta
 6. Si el argumento le convence, quien leyó la pregunta deberá contestarla, sino, cambiarán de roles.

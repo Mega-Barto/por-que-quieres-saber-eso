@@ -24,33 +24,35 @@ function App() {
   });
 
   return (
-    <div className="app-container">
-      <h1 className="main-title">¿Por que quieres saber eso?</h1>
-      
-      {/* Sección de pregunta aleatoria */}
-      <RandomQuestion cards={cards} />
-      
-      {/* Línea divisoria */}
-      <div className="divider">
-        <span>Todas las categorías</span>
-      </div>
+    <>
+      <div className="app-container">
+        <h1 className="main-title">¿Por que quieres saber eso?</h1>
+        
+        {/* Sección de pregunta aleatoria */}
+        <RandomQuestion cards={cards} />
+        
+        {/* Línea divisoria */}
+        <div className="divider">
+          <span>Todas las categorías</span>
+        </div>
 
-      {/* Secciones de categorías */}
-      <div className="categories-container">
-        {Object.entries(groupedByCategory).map(
-          ([category, questions], categoryIndex) => (
-            <CategorySection 
-              key={categoryIndex} 
-              category={category} 
-              questions={questions} 
-            />
-          )
-        )}
+        {/* Secciones de categorías */}
+        <div className="categories-container">
+          {Object.entries(groupedByCategory).map(
+            ([category, questions], categoryIndex) => (
+              <CategorySection 
+                key={categoryIndex} 
+                category={category} 
+                questions={questions} 
+              />
+            )
+          )}
+        </div>
       </div>
       
-      {/* Botón de instrucciones */}
+      {/* Botón de instrucciones sticky */}
       <InstructionsButton />
-    </div>
+    </>
   );
 }
 

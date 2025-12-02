@@ -1,171 +1,277 @@
 [
-    {
-      "category": "Personalidad",
-      "question": "¿Cómo te describirías en tres palabras?"
-    },
-    {
-      "category": "Personalidad",
-      "question": "¿Qué cualidad valoras más en una persona?"
-    },
-    {
-      "category": "Personalidad",
-      "question": "¿Prefieres planificar todo o improvisar?"
-    },
-    {
-      "category": "Personalidad",
-      "question": "¿Qué te motiva a levantarte cada día?"
-    },
-    {
-      "category": "Personalidad",
-      "question": "¿Cómo manejas el estrés o la presión?"
-    },
-    {
-      "category": "Infancia",
-      "question": "¿Cuál es tu recuerdo más feliz de la infancia?"
-    },
-    {
-      "category": "Infancia",
-      "question": "¿Qué tradición familiar disfrutabas más cuando eras niño/a?"
-    },
-    {
-      "category": "Infancia",
-      "question": "¿Tenías alguna mascota cuando eras niño/a?"
-    },
-    {
-      "category": "Infancia",
-      "question": "¿Qué actividad escolar te gustaba más?"
-    },
-    {
-      "category": "Infancia",
-      "question": "¿Qué querías ser de mayor cuando eras pequeño/a?"
-    },
-    {
-      "category": "Gustos",
-      "question": "¿Cuál es tu género literario favorito?"
-    },
-    {
-      "category": "Gustos",
-      "question": "¿Prefieres la ficción o la no ficción?"
-    },
-    {
-      "category": "Gustos",
-      "question": "¿Qué tipo de música te emociona más?"
-    },
-    {
-      "category": "Gustos",
-      "question": "¿Cuál es tu película o serie favorita?"
-    },
-    {
-      "category": "Gustos",
-      "question": "¿Tienes algún hobby?"
-    },
-    {
-      "category": "Sueños y Aspiraciones",
-      "question": "¿Cuál es tu mayor sueño en la vida?"
-    },
-    {
-      "category": "Sueños y Aspiraciones",
-      "question": "¿Qué te gustaría lograr en los próximos cinco años?"
-    },
-    {
-      "category": "Sueños y Aspiraciones",
-      "question": "¿Hay algún lugar en el mundo que desees visitar?"
-    },
-    {
-      "category": "Sueños y Aspiraciones",
-      "question": "¿Qué te inspira a seguir adelante en momentos difíciles?"
-    },
-    {
-      "category": "Sueños y Aspiraciones",
-      "question": "¿Qué legado te gustaría dejar?"
-    },
-    {
-      "category": "Relaciones y Vida Social",
-      "question": "¿Qué valoras más en una amistad?"
-    },
-    {
-      "category": "Relaciones y Vida Social",
-      "question": "¿Cómo sueles resolver los conflictos con los demás?"
-    },
-    {
-      "category": "Relaciones y Vida Social",
-      "question": "¿Te consideras una persona extrovertida o introvertida?"
-    },
-    {
-      "category": "Relaciones y Vida Social",
-      "question": "¿Qué tipo de personas te sacan de quicio?"
-    },
-    {
-      "category": "Relaciones y Vida Social",
-      "question": "¿Cómo te describirían tus amigos cercanos?"
-    },
-    {
-      "category": "Valores y Creencias",
-      "question": "¿Qué principios rigen tu vida?"
-    },
-    {
-      "category": "Valores y Creencias",
-      "question": "¿Qué significa para ti el éxito?"
-    },
-    {
-      "category": "Valores y Creencias",
-      "question": "¿Hay algo por lo que nunca estarías dispuesto/a a comprometerte?"
-    },
-    {
-      "category": "Valores y Creencias",
-      "question": "¿Qué importancia le das a la espiritualidad o religión en tu vida?"
-    },
-    {
-      "category": "Valores y Creencias",
-      "question": "¿Qué causa social te conmueve más?"
-    },
-    {
-      "category": "Creatividad y Pasatiempos",
-      "question": "¿Qué actividad creativa disfrutas más?"
-    },
-    {
-      "category": "Creatividad y Pasatiempos",
-      "question": "¿Hay algún proyecto personal que te gustaría iniciar?"
-    },
-    {
-      "category": "Creatividad y Pasatiempos",
-      "question": "¿Qué te inspira a ser creativo/a?"
-    },
-    {
-      "category": "Creatividad y Pasatiempos",
-      "question": "¿Cómo expresas tus emociones a través del arte o la creatividad?"
-    },
-    {
-      "category": "Creatividad y Pasatiempos",
-      "question": "¿Qué hobby te gustaría aprender si tuvieras tiempo?"
-    },
-    {
-        "category": "Romántico",
-        "question": "¿Qué pequeño gesto de cariño te hace sentir más especial?"
-      },
-      {
-        "category": "Romántico",
-        "question": "¿Cómo describirías la sensación de estar enamorado/a?"
-      },
-      {
-        "category": "Romántico",
-        "question": "¿Cuál ha sido el detalle más romántico que alguien ha tenido contigo?"
-      },
-      {
-        "category": "Romántico",
-        "question": "Si pudieras crear un momento perfecto, ¿cómo sería?"
-      },
-      {
-        "category": "Gustos",
-        "question": "Hay alguna canción que te recuerde a algo o alguien en particular?"
-      },
-      {
-        "category": "Valores y Creencias",
-        "question": "¿Cómo te gusta celebrar los pequeños triunfos?"
-      },
-      {
-        "category": "Romántico",
-        "question": "¿Cuál es tu forma favorita de demostrar afecto cuando estas lejos?"
-      }
-  ]
-  
+  {
+    "category": "Personalidad",
+    "question": "¿Cómo te describirías en tres palabras?"
+  },
+  {
+    "category": "Personalidad",
+    "question": "¿Qué cualidad valoras más en una persona?"
+  },
+  {
+    "category": "Personalidad",
+    "question": "¿Prefieres planificar todo o improvisar?"
+  },
+  {
+    "category": "Personalidad",
+    "question": "¿Qué te motiva a levantarte cada día?"
+  },
+  {
+    "category": "Personalidad",
+    "question": "¿Cómo manejas el estrés o la presión?"
+  },
+  {
+    "category": "Infancia",
+    "question": "¿Cuál es tu recuerdo más feliz de la infancia?"
+  },
+  {
+    "category": "Infancia",
+    "question": "¿Qué tradición familiar disfrutabas más cuando eras niño/a?"
+  },
+  {
+    "category": "Infancia",
+    "question": "¿Tenías alguna mascota cuando eras niño/a?"
+  },
+  {
+    "category": "Infancia",
+    "question": "¿Qué actividad escolar te gustaba más?"
+  },
+  {
+    "category": "Infancia",
+    "question": "¿Qué querías ser de mayor cuando eras pequeño/a?"
+  },
+  {
+    "category": "Gustos",
+    "question": "¿Cuál es tu género literario favorito?"
+  },
+  {
+    "category": "Gustos",
+    "question": "¿Prefieres la ficción o la no ficción?"
+  },
+  {
+    "category": "Gustos",
+    "question": "¿Qué tipo de música te emociona más?"
+  },
+  {
+    "category": "Gustos",
+    "question": "¿Cuál es tu película o serie favorita?"
+  },
+  {
+    "category": "Gustos",
+    "question": "¿Tienes algún hobby?"
+  },
+  {
+    "category": "Sueños y Aspiraciones",
+    "question": "¿Cuál es tu mayor sueño en la vida?"
+  },
+  {
+    "category": "Sueños y Aspiraciones",
+    "question": "¿Qué te gustaría lograr en los próximos cinco años?"
+  },
+  {
+    "category": "Sueños y Aspiraciones",
+    "question": "¿Hay algún lugar en el mundo que desees visitar?"
+  },
+  {
+    "category": "Sueños y Aspiraciones",
+    "question": "¿Qué te inspira a seguir adelante en momentos difíciles?"
+  },
+  {
+    "category": "Sueños y Aspiraciones",
+    "question": "¿Qué legado te gustaría dejar?"
+  },
+  {
+    "category": "Relaciones y Vida Social",
+    "question": "¿Qué valoras más en una amistad?"
+  },
+  {
+    "category": "Relaciones y Vida Social",
+    "question": "¿Cómo sueles resolver los conflictos con los demás?"
+  },
+  {
+    "category": "Relaciones y Vida Social",
+    "question": "¿Te consideras una persona extrovertida o introvertida?"
+  },
+  {
+    "category": "Relaciones y Vida Social",
+    "question": "¿Qué tipo de personas te sacan de quicio?"
+  },
+  {
+    "category": "Relaciones y Vida Social",
+    "question": "¿Cómo te describirían tus amigos cercanos?"
+  },
+  {
+    "category": "Valores y Creencias",
+    "question": "¿Qué principios rigen tu vida?"
+  },
+  {
+    "category": "Valores y Creencias",
+    "question": "¿Qué significa para ti el éxito?"
+  },
+  {
+    "category": "Valores y Creencias",
+    "question": "¿Hay algo por lo que nunca estarías dispuesto/a a comprometerte?"
+  },
+  {
+    "category": "Valores y Creencias",
+    "question": "¿Qué importancia le das a la espiritualidad o religión en tu vida?"
+  },
+  {
+    "category": "Valores y Creencias",
+    "question": "¿Qué causa social te conmueve más?"
+  },
+  {
+    "category": "Creatividad y Pasatiempos",
+    "question": "¿Qué actividad creativa disfrutas más?"
+  },
+  {
+    "category": "Creatividad y Pasatiempos",
+    "question": "¿Hay algún proyecto personal que te gustaría iniciar?"
+  },
+  {
+    "category": "Creatividad y Pasatiempos",
+    "question": "¿Qué te inspira a ser creativo/a?"
+  },
+  {
+    "category": "Creatividad y Pasatiempos",
+    "question": "¿Cómo expresas tus emociones a través del arte o la creatividad?"
+  },
+  {
+    "category": "Creatividad y Pasatiempos",
+    "question": "¿Qué hobby te gustaría aprender si tuvieras tiempo?"
+  },
+  {
+    "category": "Romántico",
+    "question": "¿Qué pequeño gesto de cariño te hace sentir más especial?"
+  },
+  {
+    "category": "Romántico",
+    "question": "¿Cómo describirías la sensación de estar enamorado/a?"
+  },
+  {
+    "category": "Romántico",
+    "question": "¿Cuál ha sido el detalle más romántico que alguien ha tenido contigo?"
+  },
+  {
+    "category": "Romántico",
+    "question": "Si pudieras crear un momento perfecto, ¿cómo sería?"
+  },
+  {
+    "category": "Gustos",
+    "question": "Hay alguna canción que te recuerde a algo o alguien en particular?"
+  },
+  {
+    "category": "Valores y Creencias",
+    "question": "¿Cómo te gusta celebrar los pequeños triunfos?"
+  },
+  {
+    "category": "Romántico",
+    "question": "¿Cuál es tu forma favorita de demostrar afecto cuando estas lejos?"
+  },
+  {
+    "category": "Personalidad",
+    "question": "Si pudieras elegir una habilidad en la que fueras naturalmente bueno/a, ¿cuál sería?"
+  },
+  {
+    "category": "Personalidad",
+    "question": "¿Eres más de mañanas o de noches?"
+  },
+  {
+    "category": "Personalidad",
+    "question": "¿Cuál es una pequeña cosa que siempre te alegra el día?"
+  },
+
+  {
+    "category": "Infancia",
+    "question": "¿Cuál era tu merienda favorita cuando eras niño/a?"
+  },
+  {
+    "category": "Infancia",
+    "question": "¿Qué caricatura o programa veías sin falta?"
+  },
+  {
+    "category": "Infancia",
+    "question": "¿Cuál fue el primer juguete que recuerdas haber querido mucho?"
+  },
+
+  {
+    "category": "Gustos",
+    "question": "¿Qué comida podrías comer casi todos los días sin cansarte?"
+  },
+  {
+    "category": "Gustos",
+    "question": "¿Qué tipo de música te pone automáticamente de buen humor?"
+  },
+  {
+    "category": "Gustos",
+    "question": "Si pudieras recomendar una serie ligera, ¿cuál sería?"
+  },
+  {
+    "category": "Gustos",
+    "question": "¿Qué bebida es tu ‘comfort drink’?"
+  },
+
+  {
+    "category": "Sueños y Aspiraciones",
+    "question": "Si pudieras aprender algo nuevo sin esfuerzo, ¿qué elegirías?"
+  },
+  {
+    "category": "Sueños y Aspiraciones",
+    "question": "¿Hay algún país o ciudad que te gustaría visitar solo por curiosidad?"
+  },
+  {
+    "category": "Sueños y Aspiraciones",
+    "question": "¿Qué cosa pendiente te gustaría probar aunque sea una vez?"
+  },
+
+  {
+    "category": "Relaciones y Vida Social",
+    "question": "¿Eres más de planes tranquilos o de salir a explorar?"
+  },
+  {
+    "category": "Relaciones y Vida Social",
+    "question": "¿Qué tipo de conversaciones disfrutas más?"
+  },
+  {
+    "category": "Relaciones y Vida Social",
+    "question": "Cuando conoces a alguien nuevo, ¿qué te llama más la atención?"
+  },
+
+  {
+    "category": "Valores y Creencias",
+    "question": "¿Qué gesto simple de amabilidad te parece más valioso?"
+  },
+  {
+    "category": "Valores y Creencias",
+    "question": "¿Qué consejo te han dado que siempre recuerdas?"
+  },
+  {
+    "category": "Valores y Creencias",
+    "question": "¿Qué valor te parece esencial en cualquier persona?"
+  },
+
+  {
+    "category": "Creatividad y Pasatiempos",
+    "question": "¿Qué actividad te ayuda a desconectar después de un día largo?"
+  },
+  {
+    "category": "Creatividad y Pasatiempos",
+    "question": "¿Hay algún hobby que te llame la atención últimamente?"
+  },
+  {
+    "category": "Creatividad y Pasatiempos",
+    "question": "Si tuvieras un día libre solo para ti, ¿qué actividad elegirías?"
+  },
+
+  {
+    "category": "Romántico",
+    "question": "¿Cuál es tu plan perfecto para una cita tranquila?"
+  },
+  {
+    "category": "Romántico",
+    "question": "¿Qué pequeño detalle te hace sonreír sin querer?"
+  },
+  {
+    "category": "Romántico",
+    "question": "¿Qué canción te parece ideal para un momento bonito?"
+  }
+]
