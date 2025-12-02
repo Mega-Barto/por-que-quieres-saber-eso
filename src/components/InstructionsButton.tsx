@@ -115,7 +115,7 @@ const InstructionsContent: React.FC<{ onClose: () => void }> = ({ onClose }) => 
         
         <div className="fun-note">
           <span className="emoji" role="img" aria-label="cara pícara">😏</span>
-          <p>También puedes responder directamente... ¡juas juas!</p>
+          <p>También puedes responder directamente...</p>
         </div>
       </div>
     </div>

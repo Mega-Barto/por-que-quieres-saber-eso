@@ -273,5 +273,109 @@
   {
     "category": "Romántico",
     "question": "¿Qué canción te parece ideal para un momento bonito?"
+  },
+  {
+    "category": "Música",
+    "question": "¿Qué canción puedes escuchar mil veces sin cansarte?"
+  },
+  {
+    "category": "Música",
+    "question": "¿Qué artista te sorprendió que terminaras disfrutando?"
+  },
+  {
+    "category": "Música",
+    "question": "Si pudieras ir a cualquier concierto del pasado, ¿cuál elegirías?"
+  },
+  {
+    "category": "Música",
+    "question": "¿Qué canción siempre te pone de buen humor?"
+  },
+  {
+    "category": "Música",
+    "question": "¿Qué género musical te encanta pero casi nadie adivinaría?"
+  },
+
+  {
+    "category": "Películas",
+    "question": "¿Qué película puedes ver una y otra vez sin aburrirte?"
+  },
+  {
+    "category": "Películas",
+    "question": "¿Cuál fue la última película que realmente te sorprendió?"
+  },
+  {
+    "category": "Películas",
+    "question": "¿Qué actor o actriz te parece que siempre hace buenos papeles?"
+  },
+  {
+    "category": "Películas",
+    "question": "¿Qué película recomendarías para una tarde relajada?"
+  },
+  {
+    "category": "Películas",
+    "question": "Si pudieras vivir en el universo de una película, ¿cuál sería?"
+  },
+
+  {
+    "category": "Series",
+    "question": "¿Qué serie te atrapó desde el primer capítulo?"
+  },
+  {
+    "category": "Series",
+    "question": "¿Qué serie pondrías para desconectar un rato?"
+  },
+  {
+    "category": "Series",
+    "question": "¿Qué personaje de serie te cae sorprendentemente bien?"
+  },
+  {
+    "category": "Series",
+    "question": "¿Qué serie te dejó un final que te costó superar?"
+  },
+  {
+    "category": "Series",
+    "question": "¿Qué serie recomendarías a alguien que no tiene mucho tiempo?"
+  },
+
+  {
+    "category": "Videojuegos",
+    "question": "¿Cuál fue el primer videojuego que realmente te marcó?"
+  },
+  {
+    "category": "Videojuegos",
+    "question": "¿Qué juego te relaja aunque no seas muy competitivo/a?"
+  },
+  {
+    "category": "Videojuegos",
+    "question": "Si pudieras dominar un videojuego al instante, ¿cuál sería?"
+  },
+  {
+    "category": "Videojuegos",
+    "question": "¿Qué personaje de videojuego te parece inolvidable?"
+  },
+  {
+    "category": "Videojuegos",
+    "question": "¿Qué juego te gustaría que todos probaran al menos una vez?"
+  },
+
+  {
+    "category": "Cultura Pop",
+    "question": "¿Qué meme o tendencia te sigue dando risa?"
+  },
+  {
+    "category": "Cultura Pop",
+    "question": "¿Qué personaje ficticio te gustaría tener como amigo/a?"
+  },
+  {
+    "category": "Cultura Pop",
+    "question": "¿Qué universo ficticio te parece más interesante?"
+  },
+  {
+    "category": "Cultura Pop",
+    "question": "¿Qué película o serie marcó tu adolescencia?"
+  },
+  {
+    "category": "Cultura Pop",
+    "question": "Si pudieras tener cualquier gadget de una película o serie, ¿cuál sería?"
   }
 ]
