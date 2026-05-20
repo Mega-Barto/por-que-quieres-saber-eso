@@ -20,6 +20,31 @@
     "question": "¿Cómo manejas el estrés o la presión?"
   },
   {
+    "category": "Personalidad",
+    "question": "Si pudieras elegir una habilidad en la que fueras naturalmente bueno/a, ¿cuál sería?"
+  },
+  {
+    "category": "Personalidad",
+    "question": "¿Eres más de mañanas o de noches?"
+  },
+  {
+    "category": "Personalidad",
+    "question": "¿Cuál es una pequeña cosa que siempre te alegra el día?"
+  },
+  {
+    "category": "Personalidad",
+    "question": "¿Qué te hace sentir más tú mismo/a?"
+  },
+  {
+    "category": "Personalidad",
+    "question": "¿Prefieres trabajar en equipo o por tu cuenta?"
+  },
+  {
+    "category": "Personalidad",
+    "question": "¿Qué situación te saca de tu zona de confort de buena manera?"
+  },
+
+  {
     "category": "Infancia",
     "question": "¿Cuál es tu recuerdo más feliz de la infancia?"
   },
@@ -29,36 +54,58 @@
   },
   {
     "category": "Infancia",
-    "question": "¿Tenías alguna mascota cuando eras niño/a?"
-  },
-  {
-    "category": "Infancia",
-    "question": "¿Qué actividad escolar te gustaba más?"
-  },
-  {
-    "category": "Infancia",
     "question": "¿Qué querías ser de mayor cuando eras pequeño/a?"
   },
   {
-    "category": "Gustos",
-    "question": "¿Cuál es tu género literario favorito?"
+    "category": "Infancia",
+    "question": "¿Qué juego o actividad te encantaba repetir una y otra vez?"
   },
   {
-    "category": "Gustos",
-    "question": "¿Prefieres la ficción o la no ficción?"
+    "category": "Infancia",
+    "question": "¿Qué lección de la infancia te sigue sirviendo hoy?"
   },
+  {
+    "category": "Infancia",
+    "question": "¿Quién fue tu referente cuando eras pequeño/a y por qué?"
+  },
+  {
+    "category": "Infancia",
+    "question": "¿Qué olor o sonido te transporta a la infancia?"
+  },
+
   {
     "category": "Gustos",
     "question": "¿Qué tipo de música te emociona más?"
   },
   {
     "category": "Gustos",
-    "question": "¿Cuál es tu película o serie favorita?"
+    "question": "¿Tienes algún hobby que te apasione?"
   },
   {
     "category": "Gustos",
-    "question": "¿Tienes algún hobby?"
+    "question": "¿Qué comida te pone de buen humor casi siempre?"
   },
+  {
+    "category": "Gustos",
+    "question": "¿Prefieres leer, ver algo o escuchar música para relajarte?"
+  },
+  {
+    "category": "Gustos",
+    "question": "¿Qué tipo de planes de fin de semana disfrutas más?"
+  },
+  {
+    "category": "Gustos",
+    "question": "¿Hay alguna canción que te recuerde a un momento importante?"
+  },
+  {
+    "category": "Gustos",
+    "question": "¿Qué lugar te gusta visitar una y otra vez?"
+  },
+  {
+    "category": "Gustos",
+    "question": "¿Qué temporada del año disfrutas más y por qué?"
+  },
+
   {
     "category": "Sueños y Aspiraciones",
     "question": "¿Cuál es tu mayor sueño en la vida?"
@@ -77,8 +124,21 @@
   },
   {
     "category": "Sueños y Aspiraciones",
-    "question": "¿Qué legado te gustaría dejar?"
+    "question": "Si pudieras aprender algo nuevo sin esfuerzo, ¿qué elegirías?"
   },
+  {
+    "category": "Sueños y Aspiraciones",
+    "question": "¿Qué cosa pendiente te gustaría probar aunque sea una vez?"
+  },
+  {
+    "category": "Sueños y Aspiraciones",
+    "question": "¿Qué versión de ti mismo/a te gustaría cultivar con el tiempo?"
+  },
+  {
+    "category": "Sueños y Aspiraciones",
+    "question": "¿Qué te haría sentir que este año fue un buen año?"
+  },
+
   {
     "category": "Relaciones y Vida Social",
     "question": "¿Qué valoras más en una amistad?"
@@ -97,8 +157,25 @@
   },
   {
     "category": "Relaciones y Vida Social",
-    "question": "¿Cómo te describirían tus amigos cercanos?"
+    "question": "¿Eres más de planes tranquilos o de salir a explorar?"
   },
+  {
+    "category": "Relaciones y Vida Social",
+    "question": "¿Qué tipo de conversaciones disfrutas más?"
+  },
+  {
+    "category": "Relaciones y Vida Social",
+    "question": "Cuando conoces a alguien nuevo, ¿qué te llama más la atención?"
+  },
+  {
+    "category": "Relaciones y Vida Social",
+    "question": "¿Cómo demuestras cariño a las personas que quieres?"
+  },
+  {
+    "category": "Relaciones y Vida Social",
+    "question": "¿Qué detalle hace que confíes más en alguien?"
+  },
+
   {
     "category": "Valores y Creencias",
     "question": "¿Qué principios rigen tu vida?"
@@ -120,6 +197,23 @@
     "question": "¿Qué causa social te conmueve más?"
   },
   {
+    "category": "Valores y Creencias",
+    "question": "¿Cómo te gusta celebrar los pequeños triunfos?"
+  },
+  {
+    "category": "Valores y Creencias",
+    "question": "¿Qué consejo te han dado que siempre recuerdas?"
+  },
+  {
+    "category": "Valores y Creencias",
+    "question": "¿Qué valor te parece esencial en cualquier persona?"
+  },
+  {
+    "category": "Valores y Creencias",
+    "question": "¿Qué te hace sentir orgulloso/a de ti mismo/a?"
+  },
+
+  {
     "category": "Creatividad y Pasatiempos",
     "question": "¿Qué actividad creativa disfrutas más?"
   },
@@ -133,12 +227,21 @@
   },
   {
     "category": "Creatividad y Pasatiempos",
-    "question": "¿Cómo expresas tus emociones a través del arte o la creatividad?"
+    "question": "¿Qué hobby te gustaría aprender si tuvieras tiempo?"
   },
   {
     "category": "Creatividad y Pasatiempos",
-    "question": "¿Qué hobby te gustaría aprender si tuvieras tiempo?"
+    "question": "¿Qué actividad te ayuda a desconectar después de un día largo?"
   },
+  {
+    "category": "Creatividad y Pasatiempos",
+    "question": "Si tuvieras un día libre solo para ti, ¿qué actividad elegirías?"
+  },
+  {
+    "category": "Creatividad y Pasatiempos",
+    "question": "¿Prefieres crear cosas con las manos o con la imaginación?"
+  },
+
   {
     "category": "Romántico",
     "question": "¿Qué pequeño gesto de cariño te hace sentir más especial?"
@@ -149,119 +252,12 @@
   },
   {
     "category": "Romántico",
-    "question": "¿Cuál ha sido el detalle más romántico que alguien ha tenido contigo?"
-  },
-  {
-    "category": "Romántico",
     "question": "Si pudieras crear un momento perfecto, ¿cómo sería?"
   },
   {
-    "category": "Gustos",
-    "question": "Hay alguna canción que te recuerde a algo o alguien en particular?"
-  },
-  {
-    "category": "Valores y Creencias",
-    "question": "¿Cómo te gusta celebrar los pequeños triunfos?"
-  },
-  {
     "category": "Romántico",
-    "question": "¿Cuál es tu forma favorita de demostrar afecto cuando estas lejos?"
+    "question": "¿Cuál es tu forma favorita de demostrar afecto cuando estás lejos?"
   },
-  {
-    "category": "Personalidad",
-    "question": "Si pudieras elegir una habilidad en la que fueras naturalmente bueno/a, ¿cuál sería?"
-  },
-  {
-    "category": "Personalidad",
-    "question": "¿Eres más de mañanas o de noches?"
-  },
-  {
-    "category": "Personalidad",
-    "question": "¿Cuál es una pequeña cosa que siempre te alegra el día?"
-  },
-
-  {
-    "category": "Infancia",
-    "question": "¿Cuál era tu merienda favorita cuando eras niño/a?"
-  },
-  {
-    "category": "Infancia",
-    "question": "¿Qué caricatura o programa veías sin falta?"
-  },
-  {
-    "category": "Infancia",
-    "question": "¿Cuál fue el primer juguete que recuerdas haber querido mucho?"
-  },
-
-  {
-    "category": "Gustos",
-    "question": "¿Qué comida podrías comer casi todos los días sin cansarte?"
-  },
-  {
-    "category": "Gustos",
-    "question": "¿Qué tipo de música te pone automáticamente de buen humor?"
-  },
-  {
-    "category": "Gustos",
-    "question": "Si pudieras recomendar una serie ligera, ¿cuál sería?"
-  },
-  {
-    "category": "Gustos",
-    "question": "¿Qué bebida es tu ‘comfort drink’?"
-  },
-
-  {
-    "category": "Sueños y Aspiraciones",
-    "question": "Si pudieras aprender algo nuevo sin esfuerzo, ¿qué elegirías?"
-  },
-  {
-    "category": "Sueños y Aspiraciones",
-    "question": "¿Hay algún país o ciudad que te gustaría visitar solo por curiosidad?"
-  },
-  {
-    "category": "Sueños y Aspiraciones",
-    "question": "¿Qué cosa pendiente te gustaría probar aunque sea una vez?"
-  },
-
-  {
-    "category": "Relaciones y Vida Social",
-    "question": "¿Eres más de planes tranquilos o de salir a explorar?"
-  },
-  {
-    "category": "Relaciones y Vida Social",
-    "question": "¿Qué tipo de conversaciones disfrutas más?"
-  },
-  {
-    "category": "Relaciones y Vida Social",
-    "question": "Cuando conoces a alguien nuevo, ¿qué te llama más la atención?"
-  },
-
-  {
-    "category": "Valores y Creencias",
-    "question": "¿Qué gesto simple de amabilidad te parece más valioso?"
-  },
-  {
-    "category": "Valores y Creencias",
-    "question": "¿Qué consejo te han dado que siempre recuerdas?"
-  },
-  {
-    "category": "Valores y Creencias",
-    "question": "¿Qué valor te parece esencial en cualquier persona?"
-  },
-
-  {
-    "category": "Creatividad y Pasatiempos",
-    "question": "¿Qué actividad te ayuda a desconectar después de un día largo?"
-  },
-  {
-    "category": "Creatividad y Pasatiempos",
-    "question": "¿Hay algún hobby que te llame la atención últimamente?"
-  },
-  {
-    "category": "Creatividad y Pasatiempos",
-    "question": "Si tuvieras un día libre solo para ti, ¿qué actividad elegirías?"
-  },
-
   {
     "category": "Romántico",
     "question": "¿Cuál es tu plan perfecto para una cita tranquila?"
@@ -272,19 +268,20 @@
   },
   {
     "category": "Romántico",
-    "question": "¿Qué canción te parece ideal para un momento bonito?"
+    "question": "¿Qué te hace sentir más conectado/a con alguien?"
   },
   {
+    "category": "Romántico",
+    "question": "¿Qué importancia le das a la confianza en una relación?"
+  },
+
+  {
     "category": "Música",
-    "question": "¿Qué canción puedes escuchar mil veces sin cansarte?"
+    "question": "¿Qué canción puedes escuchar muchas veces sin cansarte?"
   },
   {
     "category": "Música",
     "question": "¿Qué artista te sorprendió que terminaras disfrutando?"
-  },
-  {
-    "category": "Música",
-    "question": "Si pudieras ir a cualquier concierto del pasado, ¿cuál elegirías?"
   },
   {
     "category": "Música",
@@ -293,6 +290,14 @@
   {
     "category": "Música",
     "question": "¿Qué género musical te encanta pero casi nadie adivinaría?"
+  },
+  {
+    "category": "Música",
+    "question": "¿Prefieres ir a un concierto en vivo o escuchar música en casa?"
+  },
+  {
+    "category": "Música",
+    "question": "¿Qué canción te gustaría dedicar a alguien importante?"
   },
 
   {
@@ -305,15 +310,19 @@
   },
   {
     "category": "Películas",
-    "question": "¿Qué actor o actriz te parece que siempre hace buenos papeles?"
-  },
-  {
-    "category": "Películas",
     "question": "¿Qué película recomendarías para una tarde relajada?"
   },
   {
     "category": "Películas",
     "question": "Si pudieras vivir en el universo de una película, ¿cuál sería?"
+  },
+  {
+    "category": "Películas",
+    "question": "¿Prefieres películas que te hagan reír, pensar o emocionarte?"
+  },
+  {
+    "category": "Películas",
+    "question": "¿Qué película te enseñó algo que no olvidaste?"
   },
 
   {
@@ -326,15 +335,15 @@
   },
   {
     "category": "Series",
-    "question": "¿Qué personaje de serie te cae sorprendentemente bien?"
-  },
-  {
-    "category": "Series",
-    "question": "¿Qué serie te dejó un final que te costó superar?"
+    "question": "¿Qué personaje de ficción te cae sorprendentemente bien?"
   },
   {
     "category": "Series",
     "question": "¿Qué serie recomendarías a alguien que no tiene mucho tiempo?"
+  },
+  {
+    "category": "Series",
+    "question": "¿Prefieres series cortas o historias largas que se alargan?"
   },
 
   {
@@ -347,21 +356,17 @@
   },
   {
     "category": "Videojuegos",
-    "question": "Si pudieras dominar un videojuego al instante, ¿cuál sería?"
-  },
-  {
-    "category": "Videojuegos",
     "question": "¿Qué personaje de videojuego te parece inolvidable?"
   },
   {
     "category": "Videojuegos",
-    "question": "¿Qué juego te gustaría que todos probaran al menos una vez?"
+    "question": "¿Prefieres jugar solo/a, en compañía o en línea?"
+  },
+  {
+    "category": "Videojuegos",
+    "question": "Si no jugaras nada hoy, ¿qué tipo de juego probarías por curiosidad?"
   },
 
-  {
-    "category": "Cultura Pop",
-    "question": "¿Qué meme o tendencia te sigue dando risa?"
-  },
   {
     "category": "Cultura Pop",
     "question": "¿Qué personaje ficticio te gustaría tener como amigo/a?"
@@ -379,107 +384,77 @@
     "question": "Si pudieras tener cualquier gadget de una película o serie, ¿cuál sería?"
   },
   {
-    "category": "Música",
-    "question": "¿Cuál es tu opening de anime favorito?"
+    "category": "Cultura Pop",
+    "question": "¿Qué tendencia cultural te pareció divertida aunque no la siguieras?"
   },
   {
-    "category": "Música",
-    "question": "¿Qué ending de anime te sorprendió por lo bueno que es?"
-  },
-  {
-    "category": "Música",
-    "question": "¿Qué banda o artista japonés descubriste gracias al anime?"
-  },
-  {
-    "category": "Música",
-    "question": "¿Qué soundtrack de anime te parece más emocionante?"
-  },
-  {
-    "category": "Música",
-    "question": "¿Qué opening tararearías sin importar dónde estés?"
+    "category": "Cultura Pop",
+    "question": "¿Qué libro, película o serie te recomendaron y te encantó?"
   },
 
   {
-    "category": "Películas",
-    "question": "¿Cuál es tu película de anime favorita de todos los tiempos?"
+    "category": "Curiosidades",
+    "question": "¿Qué superstición o manía tienes, por ligera que sea?"
   },
   {
-    "category": "Películas",
-    "question": "¿Qué película de Studio Ghibli te marcó más?"
+    "category": "Curiosidades",
+    "question": "¿Qué cosa aprendiste recientemente que te sorprendió?"
   },
   {
-    "category": "Películas",
-    "question": "¿Qué película de anime recomiendas siempre?"
+    "category": "Curiosidades",
+    "question": "Si pudieras cenar con cualquier persona, viva o histórica, ¿con quién sería?"
   },
   {
-    "category": "Películas",
-    "question": "¿Qué director de anime te parece más brillante?"
+    "category": "Curiosidades",
+    "question": "¿Qué objeto guardas por sentimentalismo?"
   },
   {
-    "category": "Películas",
-    "question": "¿Qué película de anime te hizo llorar más?"
-  },
-
-  {
-    "category": "Series",
-    "question": "¿Cuál fue el primer anime que viste?"
+    "category": "Curiosidades",
+    "question": "¿Qué pregunta te gustaría que te hicieran más a menudo?"
   },
   {
-    "category": "Series",
-    "question": "¿Qué anime te gustaría ver otra vez como si fuera la primera vez?"
+    "category": "Curiosidades",
+    "question": "¿Qué talento oculto crees que tienes?"
   },
   {
-    "category": "Series",
-    "question": "¿Qué personaje de anime te parece más icónico?"
+    "category": "Curiosidades",
+    "question": "¿Qué hábito pequeño te gustaría cambiar?"
   },
   {
-    "category": "Series",
-    "question": "¿Qué anime te sorprendió con su historia?"
-  },
-  {
-    "category": "Series",
-    "question": "¿Qué anime recomendarías a alguien que no suele ver anime?"
+    "category": "Curiosidades",
+    "question": "¿Qué te hace reír sin falta?"
   },
 
   {
-    "category": "Videojuegos",
-    "question": "¿Qué videojuego basado en anime te parece el mejor adaptado?"
+    "category": "¿Y si...?",
+    "question": "Si tuvieras un día sin obligaciones, ¿cómo lo pasarías?"
   },
   {
-    "category": "Videojuegos",
-    "question": "¿Qué juego de anime jugaste más horas sin darte cuenta?"
+    "category": "¿Y si...?",
+    "question": "Si pudieras vivir un año en otro país, ¿dónde irías?"
   },
   {
-    "category": "Videojuegos",
-    "question": "¿Qué personaje de anime te gustaría que tuviera su propio videojuego?"
+    "category": "¿Y si...?",
+    "question": "Si ganaras la lotería mañana, ¿qué harías primero?"
   },
   {
-    "category": "Videojuegos",
-    "question": "¿Qué opening de anime te encantaría que apareciera en un juego?"
+    "category": "¿Y si...?",
+    "question": "Si pudieras repetir un día de tu vida, ¿cuál elegirías?"
   },
   {
-    "category": "Videojuegos",
-    "question": "¿Qué juego inspirado en anime recomendarías sin dudar?"
-  },
-
-  {
-    "category": "Cultura Pop",
-    "question": "¿Qué tropo del anime te parece más divertido?"
+    "category": "¿Y si...?",
+    "question": "Si pudieras dominar un idioma al instante, ¿cuál elegirías?"
   },
   {
-    "category": "Cultura Pop",
-    "question": "¿Qué personaje de anime viste hasta el cansancio en memes?"
+    "category": "¿Y si...?",
+    "question": "Si tu yo de hace diez años te viera ahora, ¿qué diría?"
   },
   {
-    "category": "Cultura Pop",
-    "question": "¿Qué trend de anime te pareció imposible de evitar?"
+    "category": "¿Y si...?",
+    "question": "Si solo pudieras comer un tipo de cocina un mes, ¿cuál elegirías?"
   },
   {
-    "category": "Cultura Pop",
-    "question": "¿Qué escena de anime se volvió icónica para ti?"
-  },
-  {
-    "category": "Cultura Pop",
-    "question": "¿Qué frase de anime recuerdas siempre?"
+    "category": "¿Y si...?",
+    "question": "Si pudieras cambiar una decisión del pasado, ¿la cambiarías? ¿Cuál?"
   }
 ]
