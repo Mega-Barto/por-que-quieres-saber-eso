@@ -16,6 +16,38 @@ Este proyecto fue desarrollado aplicando **Vibe Coding**:
 - 📱 Diseño totalmente responsivo
 - 🌓 Interfaz moderna con gradientes, sombras y efectos visuales
 
+## 📚 Categorías
+
+El juego incluye **147 preguntas** repartidas en **18 categorías** desplegables:
+
+### Conocerse
+- **Personalidad** — cómo eres y qué te define
+- **Infancia** — recuerdos y experiencias de pequeño/a
+- **Gustos** — preferencias del día a día
+- **Sueños y Aspiraciones** — metas y motivación
+- **Relaciones y Vida Social** — amistad, convivencia y vínculos
+- **Valores y Creencias** — principios y lo que te importa
+- **Creatividad y Pasatiempos** — proyectos, hobbies y desconexión
+- **Romántico** — afecto, pareja y conexión emocional
+
+### Entretenimiento
+- **Música** — canciones, artistas y conciertos
+- **Películas** — cine y universos cinematográficos
+- **Series** — historias en formato episodio
+- **Cultura Pop** — ficción, tendencias y recomendaciones
+
+### Temáticas
+- **Anime** — series, personajes y géneros del anime
+- **Videojuegos** — plataformas, géneros y experiencias de juego
+- **Libros** — lectura, autores y formatos
+- **Tecnología** — gadgets, apps, IA y futuro digital
+
+### Dinámica
+- **Curiosidades** — manías, talentos y preguntas inesperadas
+- **¿Y si...?** — hipotéticas ligeras para imaginar en voz alta
+
+Puedes editar o ampliar cualquier categoría en `src/data/questions.json`.
+
 ## 🚀 Tecnologías
 
 - React con TypeScript
@@ -28,7 +60,7 @@ Este proyecto fue desarrollado aplicando **Vibe Coding**:
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/tu-usuario/por-que-quieres-saber-eso.git
+git clone https://github.com/Mega-Barto/por-que-quieres-saber-eso.git
 
 # Entrar al directorio
 cd por-que-quieres-saber-eso
@@ -39,8 +71,6 @@ npm install
 # Iniciar el servidor de desarrollo
 npm run dev
 ```
-
-Se aconseja revisar _src/data/questions.json_ para conocer y modificar las preguntas propuestas
 
 ## 🎮 Cómo jugar
 
