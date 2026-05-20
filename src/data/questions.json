@@ -347,6 +347,47 @@
   },
 
   {
+    "category": "Anime",
+    "question": "¿Cuál fue el primer anime que viste y qué impresión te dejó?"
+  },
+  {
+    "category": "Anime",
+    "question": "¿Qué anime recomendarías a alguien que nunca ha visto uno?"
+  },
+  {
+    "category": "Anime",
+    "question": "¿Qué personaje de anime te parece más icónico o memorable?"
+  },
+  {
+    "category": "Anime",
+    "question": "¿Prefieres ver anime subtitulado o doblado?"
+  },
+  {
+    "category": "Anime",
+    "question": "¿Qué género de anime disfrutas más (acción, romance, slice of life, etc.)?"
+  },
+  {
+    "category": "Anime",
+    "question": "¿Qué anime te sorprendió por su historia o su final?"
+  },
+  {
+    "category": "Anime",
+    "question": "¿Hay algún opening o ending que no te cansas de escuchar?"
+  },
+  {
+    "category": "Anime",
+    "question": "¿Qué anime te gustaría ver otra vez como si fuera la primera vez?"
+  },
+  {
+    "category": "Anime",
+    "question": "¿Qué tropo del anime te divierte o te encanta más?"
+  },
+  {
+    "category": "Anime",
+    "question": "Si pudieras vivir en el mundo de un anime, ¿cuál elegirías?"
+  },
+
+  {
     "category": "Videojuegos",
     "question": "¿Cuál fue el primer videojuego que realmente te marcó?"
   },
@@ -364,7 +405,113 @@
   },
   {
     "category": "Videojuegos",
-    "question": "Si no jugaras nada hoy, ¿qué tipo de juego probarías por curiosidad?"
+    "question": "¿Qué género de videojuegos disfrutas más?"
+  },
+  {
+    "category": "Videojuegos",
+    "question": "¿Qué juego te hizo perder la noción del tiempo?"
+  },
+  {
+    "category": "Videojuegos",
+    "question": "¿Prefieres juegos indie o grandes producciones (AAA)?"
+  },
+  {
+    "category": "Videojuegos",
+    "question": "¿En qué plataforma sueles jugar más (PC, consola, móvil)?"
+  },
+  {
+    "category": "Videojuegos",
+    "question": "¿Qué videojuego recomendarías a alguien que casi no juega?"
+  },
+  {
+    "category": "Videojuegos",
+    "question": "¿Prefieres juegos con historia profunda o partidas rápidas y casuales?"
+  },
+  {
+    "category": "Videojuegos",
+    "question": "Si pudieras revivir la experiencia de estrenar un juego, ¿cuál elegirías?"
+  },
+
+  {
+    "category": "Libros",
+    "question": "¿Qué género literario disfrutas más?"
+  },
+  {
+    "category": "Libros",
+    "question": "¿Prefieres leer ficción o no ficción?"
+  },
+  {
+    "category": "Libros",
+    "question": "¿Qué libro te marcó o cambió tu forma de ver las cosas?"
+  },
+  {
+    "category": "Libros",
+    "question": "¿Prefieres leer en papel, en digital o escuchar audiolibros?"
+  },
+  {
+    "category": "Libros",
+    "question": "¿Qué libro no pudiste dejar hasta terminarlo?"
+  },
+  {
+    "category": "Libros",
+    "question": "¿Hay algún autor o autora del que leerías casi cualquier cosa?"
+  },
+  {
+    "category": "Libros",
+    "question": "¿Qué libro recomendarías sin dudar?"
+  },
+  {
+    "category": "Libros",
+    "question": "¿Te gusta releer libros o prefieres siempre descubrir historias nuevas?"
+  },
+  {
+    "category": "Libros",
+    "question": "¿Dónde es tu lugar ideal para leer?"
+  },
+  {
+    "category": "Libros",
+    "question": "Si solo pudieras llevar un libro a una isla desierta, ¿cuál sería?"
+  },
+
+  {
+    "category": "Tecnología",
+    "question": "¿Qué dispositivo tecnológico no podrías prescindir en el día a día?"
+  },
+  {
+    "category": "Tecnología",
+    "question": "¿Qué app o herramienta digital usas más a menudo?"
+  },
+  {
+    "category": "Tecnología",
+    "question": "¿Qué avance tecnológico te emociona más del futuro cercano?"
+  },
+  {
+    "category": "Tecnología",
+    "question": "¿Prefieres Android, iOS u otro ecosistema? ¿Por qué?"
+  },
+  {
+    "category": "Tecnología",
+    "question": "¿Cómo usas la inteligencia artificial en tu vida cotidiana, si la usas?"
+  },
+  {
+    "category": "Tecnología",
+    "question": "¿Qué invento tecnológico te gustaría que existiera ya?"
+  },
+  {
+    "category": "Tecnología",
+    "question": "¿Eres más de actualizar gadgets seguido o de usar los mismos hasta que fallen?"
+  },
+  {
+    "category": "Tecnología",
+    "question": "¿Qué te preocupa más de la tecnología actual: privacidad, adicción, desinformación u otra cosa?"
+  },
+  {
+    "category": "Tecnología",
+    "question": "¿Qué gadget o consola de tu infancia te trae buenos recuerdos?"
+  },
+  {
+    "category": "Tecnología",
+    "question": "Si pudieras dominar una habilidad tech al instante, ¿cuál elegirías (programar, diseño, ciberseguridad, etc.)?"
   },
 
   {
