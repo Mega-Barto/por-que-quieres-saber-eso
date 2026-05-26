@@ -84,13 +84,13 @@ function App() {
 
         <footer className="app-footer">
           <p>
-            Hecho con 😭 por alguien con{" "}
+            Hecho con 😭 por{" "}
             <a
               href="https://www.instagram.com/mega_barto/"
               target="_blank"
               rel="noopener noreferrer"
             >
-              habilidades sociales cuestionables
+              alguien con habilidades sociales cuestionables
             </a>
           </p>
         </footer>
