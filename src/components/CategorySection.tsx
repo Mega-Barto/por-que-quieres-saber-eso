@@ -4,9 +4,14 @@ import CardGrid from './CardGrid';
 interface CategorySectionProps {
   category: string;
   questions: string[];
+  isSpecial?: boolean;
 }
 
-const CategorySection: React.FC<CategorySectionProps> = ({ category, questions }) => {
+const CategorySection: React.FC<CategorySectionProps> = ({
+  category,
+  questions,
+  isSpecial = false,
+}) => {
   const [isExpanded, setIsExpanded] = useState(false);
 
   const toggleExpand = () => {
@@ -14,8 +19,11 @@ const CategorySection: React.FC<CategorySectionProps> = ({ category, questions }
   };
 
   return (
-    <div className="category-section">
-      <div className={`category-title ${isExpanded ? 'expanded' : ''}`} onClick={toggleExpand}>
+    <div className={`category-section${isSpecial ? ' category-section--special' : ''}`}>
+      <div
+        className={`category-title${isSpecial ? ' category-title--special' : ''} ${isExpanded ? 'expanded' : ''}`}
+        onClick={toggleExpand}
+      >
         <span>{category}</span>
         <span className="toggle-icon">{isExpanded ? '−' : '+'}</span>
       </div>
@@ -26,4 +34,4 @@ const CategorySection: React.FC<CategorySectionProps> = ({ category, questions }
   );
 };
 
-export default CategorySection; 
+export default CategorySection;

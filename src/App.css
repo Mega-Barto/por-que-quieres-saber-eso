@@ -267,6 +267,48 @@ body {
   font-weight: 600;
 }
 
+.divider--special span {
+  color: #8b5a2b;
+}
+
+.barto-selection-container {
+  margin-bottom: 1rem;
+}
+
+.barto-selection-intro {
+  text-align: center;
+  color: #6b5344;
+  font-size: 0.9rem;
+  margin: 0 0 1rem;
+  line-height: 1.4;
+}
+
+@media (min-width: 768px) {
+  .barto-selection-intro {
+    font-size: 1rem;
+  }
+}
+
+.category-section--special {
+  box-shadow: 0 4px 16px rgba(139, 90, 43, 0.15);
+}
+
+.category-section--special:hover {
+  box-shadow: 0 6px 20px rgba(139, 90, 43, 0.22);
+}
+
+.category-title--special {
+  background: linear-gradient(90deg, #c4956a, #e8c9a8);
+}
+
+.category-title--special:hover {
+  background: linear-gradient(90deg, #b8875d, #dfbc9a);
+}
+
+.category-title--special.expanded {
+  background: linear-gradient(90deg, #a67a52, #d4b08f);
+}
+
 /* Sección de categoría */
 .category-section {
   margin-bottom: 1.5rem;

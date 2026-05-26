@@ -18,7 +18,7 @@ Este proyecto fue desarrollado aplicando **Vibe Coding**:
 
 ## 📚 Categorías
 
-El juego incluye **147 preguntas** repartidas en **18 categorías** desplegables:
+El juego incluye **152 preguntas** repartidas en **19 categorías** desplegables (más la sección especial Barto's Selection, excluida del sorteo aleatorio):
 
 ### Conocerse
 - **Personalidad** — cómo eres y qué te define
