@@ -1076,3 +1076,40 @@ body {
 .barto-key--action:hover {
   background: linear-gradient(135deg, #fff5eb, #efe0d0);
 }
+
+/* Footer */
+.app-footer {
+  margin-top: 2rem;
+  margin-bottom: 5rem;
+  padding-top: 1rem;
+  text-align: center;
+  border-top: 1px solid rgba(58, 110, 165, 0.12);
+}
+
+.app-footer p {
+  margin: 0;
+  font-size: 0.75rem;
+  line-height: 1.5;
+  color: #718096;
+}
+
+@media (min-width: 768px) {
+  .app-footer {
+    margin-bottom: 6rem;
+  }
+
+  .app-footer p {
+    font-size: 0.8rem;
+  }
+}
+
+.app-footer a {
+  color: #3a6ea5;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.app-footer a:hover {
+  text-decoration: underline;
+  color: #2d5a87;
+}

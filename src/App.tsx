@@ -81,6 +81,19 @@ function App() {
             />
           ))}
         </div>
+
+        <footer className="app-footer">
+          <p>
+            Hecho con 😭 por alguien con{" "}
+            <a
+              href="https://www.instagram.com/mega_barto/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              habilidades sociales cuestionables
+            </a>
+          </p>
+        </footer>
       </div>
 
       <InstructionsButton
