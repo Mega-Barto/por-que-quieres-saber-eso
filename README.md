@@ -18,7 +18,7 @@ Este proyecto fue desarrollado aplicando **Vibe Coding**:
 
 ## 📚 Categorías
 
-El juego incluye **152 preguntas** repartidas en **19 categorías** desplegables (más la sección especial Barto's Selection, excluida del sorteo aleatorio):
+El juego incluye **147 preguntas** repartidas en **18 categorías** desplegables:
 
 ### Conocerse
 - **Personalidad** — cómo eres y qué te define
@@ -45,6 +45,9 @@ El juego incluye **152 preguntas** repartidas en **19 categorías** desplegables
 ### Dinámica
 - **Curiosidades** — manías, talentos y preguntas inesperadas
 - **¿Y si...?** — hipotéticas ligeras para imaginar en voz alta
+
+### Selección especial (oculta)
+- **Barto's Selection** — no aparece en la interfaz ni en el sorteo aleatorio hasta desbloquearla. Pulsa el botón 😏, introduce el patrón `0830` y la sección quedará visible durante la sesión. Añade preguntas en `src/data/questions.json` con `"category": "Barto's Selection"`.
 
 Puedes editar o ampliar cualquier categoría en `src/data/questions.json`.
 

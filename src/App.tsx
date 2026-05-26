@@ -1,3 +1,4 @@
+import { useState } from "react";
 import "./App.css";
 import CategorySection from "./components/CategorySection";
 import RandomQuestion from "./components/RandomQuestion";
@@ -6,6 +7,8 @@ import questionsData from "./data/questions.json";
 import {
   BARTO_SELECTION_CATEGORY,
   isExcludedFromRandom,
+  persistBartoUnlocked,
+  readBartoUnlockedFromStorage,
 } from "./constants/categories";
 
 interface Question {
@@ -14,6 +17,8 @@ interface Question {
 }
 
 function App() {
+  const [bartoUnlocked, setBartoUnlocked] = useState(readBartoUnlockedFromStorage);
+
   const cards: Question[] = questionsData;
 
   const cardsForRandom = cards.filter(
@@ -33,6 +38,11 @@ function App() {
     ([category]) => category !== BARTO_SELECTION_CATEGORY
   );
 
+  const handleBartoUnlock = () => {
+    persistBartoUnlocked();
+    setBartoUnlocked(true);
+  };
+
   return (
     <>
       <div className="app-container">
@@ -40,7 +50,7 @@ function App() {
 
         <RandomQuestion cards={cardsForRandom} />
 
-        {bartoQuestions.length > 0 && (
+        {bartoUnlocked && bartoQuestions.length > 0 && (
           <>
             <div className="divider divider--special">
               <span>Barto&apos;s Selection</span>
@@ -73,7 +83,10 @@ function App() {
         </div>
       </div>
 
-      <InstructionsButton />
+      <InstructionsButton
+        bartoUnlocked={bartoUnlocked}
+        onBartoUnlock={handleBartoUnlock}
+      />
     </>
   );
 }
