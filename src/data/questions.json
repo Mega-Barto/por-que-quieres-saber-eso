@@ -603,5 +603,26 @@
   {
     "category": "¿Y si...?",
     "question": "Si pudieras cambiar una decisión del pasado, ¿la cambiarías? ¿Cuál?"
+  },
+
+  {
+    "category": "Barto's Selection",
+    "question": "¿Qué pregunta te haría yo que nadie más te ha hecho?"
+  },
+  {
+    "category": "Barto's Selection",
+    "question": "¿Qué conversación pendiente te gustaría tener conmigo?"
+  },
+  {
+    "category": "Barto's Selection",
+    "question": "¿Qué detalle mío has notado y nunca me has dicho?"
+  },
+  {
+    "category": "Barto's Selection",
+    "question": "¿En qué momento sentiste que nos conocimos de verdad?"
+  },
+  {
+    "category": "Barto's Selection",
+    "question": "¿Qué te gustaría que preguntáramos más a menudo cuando estamos juntos?"
   }
 ]

@@ -1,20 +1,30 @@
+import { useState } from "react";
 import "./App.css";
 import CategorySection from "./components/CategorySection";
 import RandomQuestion from "./components/RandomQuestion";
 import InstructionsButton from "./components/InstructionsButton";
 import questionsData from "./data/questions.json";
+import {
+  BARTO_SELECTION_CATEGORY,
+  isExcludedFromRandom,
+  persistBartoUnlocked,
+  readBartoUnlockedFromStorage,
+} from "./constants/categories";
 
-// Definir el tipo para las preguntas
 interface Question {
   category: string;
   question: string;
 }
 
 function App() {
-  // Obtener las preguntas del archivo JSON
+  const [bartoUnlocked, setBartoUnlocked] = useState(readBartoUnlockedFromStorage);
+
   const cards: Question[] = questionsData;
 
-  // Agrupar las preguntas por categoría
+  const cardsForRandom = cards.filter(
+    (card) => !isExcludedFromRandom(card.category)
+  );
+
   const groupedByCategory: { [key: string]: string[] } = {};
   cards.forEach((card) => {
     if (!groupedByCategory[card.category]) {
@@ -23,35 +33,73 @@ function App() {
     groupedByCategory[card.category].push(card.question);
   });
 
+  const bartoQuestions = groupedByCategory[BARTO_SELECTION_CATEGORY] ?? [];
+  const regularCategories = Object.entries(groupedByCategory).filter(
+    ([category]) => category !== BARTO_SELECTION_CATEGORY
+  );
+
+  const handleBartoUnlock = () => {
+    persistBartoUnlocked();
+    setBartoUnlocked(true);
+  };
+
   return (
     <>
       <div className="app-container">
         <h1 className="main-title">¿Por que quieres saber eso?</h1>
-        
-        {/* Sección de pregunta aleatoria */}
-        <RandomQuestion cards={cards} />
-        
-        {/* Línea divisoria */}
+
+        <RandomQuestion cards={cardsForRandom} />
+
+        {bartoUnlocked && bartoQuestions.length > 0 && (
+          <>
+            <div className="divider divider--special">
+              <span>Barto&apos;s Selection</span>
+            </div>
+            <div className="barto-selection-container">
+              <p className="barto-selection-intro">
+                Preguntas curadas a mano — no salen en el sorteo aleatorio.
+              </p>
+              <CategorySection
+                category={BARTO_SELECTION_CATEGORY}
+                questions={bartoQuestions}
+                isSpecial
+              />
+            </div>
+          </>
+        )}
+
         <div className="divider">
           <span>Todas las categorías</span>
         </div>
 
-        {/* Secciones de categorías */}
         <div className="categories-container">
-          {Object.entries(groupedByCategory).map(
-            ([category, questions], categoryIndex) => (
-              <CategorySection 
-                key={categoryIndex} 
-                category={category} 
-                questions={questions} 
-              />
-            )
-          )}
+          {regularCategories.map(([category, questions], categoryIndex) => (
+            <CategorySection
+              key={categoryIndex}
+              category={category}
+              questions={questions}
+            />
+          ))}
         </div>
+
+        <footer className="app-footer">
+          <p>
+            Hecho con 😭 por alguien con{" "}
+            <a
+              href="https://www.instagram.com/mega_barto/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              habilidades sociales cuestionables
+            </a>
+          </p>
+        </footer>
       </div>
-      
-      {/* Botón de instrucciones sticky */}
-      <InstructionsButton />
+
+      <InstructionsButton
+        bartoUnlocked={bartoUnlocked}
+        onBartoUnlock={handleBartoUnlock}
+      />
     </>
   );
 }
